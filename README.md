@@ -12,9 +12,9 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href=""><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href=""><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
 <h4><font size="2"><a href=""><font color="red">TELEGRAM</font>          
 </p>
@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-<p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
 </div>
 
 # Instalasi
