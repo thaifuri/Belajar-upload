@@ -12,13 +12,13 @@ global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'RiiGamtenk' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6289680833542'] // ubah aja pake nomor lu
+global.owner = ['6282163617264'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = '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'
 //====================BY Hw Mods=============================//
-global.botname = 'RiiBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = 'RiiGanteng' // ubah aja ini nama sticker
-global.author = 'RiiGanteng' // ubah aja ini nama sticker
+global.botname = 'sloxcros' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = 'sloxcros' // ubah aja ini nama sticker
+global.author = 'sloxcros' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'haikal' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
