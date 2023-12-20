@@ -6,8 +6,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.gr = 'https://chat.whatsapp.com/BheHUscnC8gIvrM3miPQrk'
-global.ig = '@raiganz' // ubah aja
-global.email = 'raishopegame@gmail.com' //serah
+global.ig = '@thaipuri' // ubah aja
+global.email = 'crosslox52@gmail.com' //serah
 global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'RiiGamtenk' //ubah jadi nama mu, note tanda ' gausah di hapus!
